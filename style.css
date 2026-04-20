@@ -1,0 +1,45 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin:50px;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/042/818/355/non_2x/8bit-pixel-graphic-blue-sky-background-with-clouds-vector.jpg);
+}
+
+.box{
+    display: flex;
+    justify-content: space-between;
+    margin:10px;
+    width:225px;
+}
+
+.box2{
+    display: flex;
+    width: 500px;
+    padding:20px;
+    border-radius: 40px;
+    border: 5px solid white;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+input{
+    height:40px;
+    border-radius: 10px;
+    border: 2px solid white;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+#search{
+    height:45px;
+}
+#description{
+    text-transform: capitalize;
+}
+
+#temp{
+    text-size-adjust: 50px;
+}
+
