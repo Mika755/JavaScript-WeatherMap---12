@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Værvarsel API oppgave</h1>
     <h3>
-      <a href="#">Lenke til prosjektet </a>
+      <a href="https://mika755.github.io/JavaScript-WeatherMap---12/">Lenke til prosjektet </a>
 
     </h3>
 </div>
